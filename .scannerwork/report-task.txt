@@ -1,0 +1,6 @@
+projectKey=CampaignManagement
+serverUrl=http://localhost:6969
+serverVersion=6.6.0.32724
+dashboardUrl=http://localhost:6969/dashboard/index/CampaignManagement
+ceTaskId=AZFLVw3Sg_nVn6lPeKtG
+ceTaskUrl=http://localhost:6969/api/ce/task?id=AZFLVw3Sg_nVn6lPeKtG
